@@ -39,15 +39,15 @@ export default function App() {
           {/* Telegram Button */}
           <LinkButton
             href="https://t.me/tradewithvanyaofficial"
-            title="Trade with Shweta (Vanya)"
+            title="Trade with Shweta (Vanya) - join Telegram"
             icon={<FaTelegramPlane />}
             variant="telegram"
           />
 
           {/* Best Broker Button */}
           <LinkButton
-            href="https://example-broker.com"
-            title="Best Binary Broker"
+            href="https://broker-qx.pro/?lid=1658520"
+            title="Best Broker"
             variant="default"
           />
         </div>
