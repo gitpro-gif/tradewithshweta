@@ -11,7 +11,7 @@ export default function ImageScroll() {
       {images.map((img, index) => (
         <div
           key={index}
-          className="min-w-[180px] h-[120px] rounded-lg overflow-hidden bg-neutral-800"
+          className="min-w-[200px] h-[140px] rounded-lg overflow-hidden bg-neutral-800"
         >
           <img
             src={img}
